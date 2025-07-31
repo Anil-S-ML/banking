@@ -1,0 +1,72 @@
+{
+  "1": {
+    "Number": "1",
+    "Balance": 450,
+    "Transactions": [
+      {
+        "Type": "CREDIT",
+        "Amount": 500,
+        "NewBalance": 500,
+        "Timestamp": "2025-04-22T14:44:14.3418071+05:30"
+      },
+      {
+        "Type": "DEBIT",
+        "Amount": 350,
+        "NewBalance": 150,
+        "Timestamp": "2025-04-22T14:44:19.015907827+05:30"
+      },
+      {
+        "Type": "CREDIT",
+        "Amount": 500,
+        "NewBalance": 650,
+        "Timestamp": "2025-04-22T14:44:41.497449547+05:30"
+      },
+      {
+        "Type": "DEBIT",
+        "Amount": 350,
+        "NewBalance": 300,
+        "Timestamp": "2025-04-22T14:44:54.113811593+05:30"
+      },
+      {
+        "Type": "CREDIT",
+        "Amount": 500,
+        "NewBalance": 800,
+        "Timestamp": "2025-04-22T14:46:56.653397828+05:30"
+      },
+      {
+        "Type": "DEBIT",
+        "Amount": 350,
+        "NewBalance": 450,
+        "Timestamp": "2025-04-22T14:47:19.003900501+05:30"
+      }
+    ]
+  },
+  "2": {
+    "Number": "2",
+    "Balance": 0,
+    "Transactions": []
+  },
+  "3": {
+    "Number": "3",
+    "Balance": 0,
+    "Transactions": []
+  },
+  "4": {
+    "Number": "4",
+    "Balance": 150,
+    "Transactions": [
+      {
+        "Type": "CREDIT",
+        "Amount": 500,
+        "NewBalance": 500,
+        "Timestamp": "2025-04-22T14:56:21.700428471+05:30"
+      },
+      {
+        "Type": "DEBIT",
+        "Amount": 350,
+        "NewBalance": 150,
+        "Timestamp": "2025-04-22T14:56:28.954185848+05:30"
+      }
+    ]
+  }
+}
